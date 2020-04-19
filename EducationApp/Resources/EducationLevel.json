@@ -1,0 +1,112 @@
+{
+    "status": 200,
+    "educationData": {
+        "title": "Education Level",
+        "education": [
+            {
+                "level": "High School",
+                "subjects": [
+                    {
+                        "item" : "science",
+                        "courses" : [
+                            "Earth Science",
+                            "Physical science",
+                            "Biology",
+                            "Chemistry",
+                            "Organic chemistry",
+                            "Physics",
+                            "Life science",
+                            "Environmental science",
+                            "Astronomy",
+                            "Zoology",
+                            "Oceanography",
+                            "Forensic science",
+                            "Botany"
+                        ]
+                    },
+                    {
+                        "item" : "english",
+                        "courses" : [
+                            "Composition",
+                            "Expository",
+                            "Pronunciation",
+                            "Grammar",
+                            "Vocabulary",
+                            "Reading"
+                        ]
+                    },
+                    {
+                        "item" : "math",
+                        "courses" : [
+                            "Algorithms",
+                            "Applied mathematics",
+                            "Calculus",
+                            "Commutative algebra",
+                            "Computational mathematics",
+                            "Cryptography",
+                            "Differential equations",
+                            "Financial mathematics",
+                            "Financial modelling",
+                            "Functional analysis",
+                            "Geometry",
+                            "Knot theory",
+                            "Linear algebra"
+                        ]
+                    },
+                    {
+                        "item" : "Other",
+                        "courses" : [
+                            "Algorithms",
+                            "Applied mathematics",
+                            "Calculus",
+                            "Commutative algebra",
+                            "Computational mathematics",
+                            "Cryptography",
+                            "Differential equations",
+                            "Financial mathematics",
+                            "Financial modelling",
+                            "Functional analysis",
+                            "Geometry",
+                            "Knot theory",
+                            "Linear algebra"
+                        ]
+                    }
+                ]
+            },
+            {
+                "level": "College",
+                "subjects": [
+                    {
+                        "item" : "Accounting & Finance",
+                        "courses" : []
+                    },
+                    {
+                        "item" : "Engineering",
+                        "courses" : []
+                    }
+                ]
+            },
+            {
+                "level": "Graduate",
+                "subjects": [
+                    {
+                        "item" : "Education Leadership",
+                        "courses" : []
+                    },
+                    {
+                        "item" : "Accounting",
+                        "courses" : []
+                    },
+                    {
+                        "item" : "Information Sciences",
+                        "courses" : []
+                    }
+                ]
+            },
+            {
+                "level": "None of the above",
+                "subjects": []
+            }
+        ]
+    }
+}
